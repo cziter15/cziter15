@@ -1,26 +1,29 @@
 ## 👋 Hi!
-My name is Krzysztof. I've been passionate about computers since childhood and started programming in elementary school. 
-After technical school, I started working as a game programmer. That's how almost a decade of my life went by, but 
-lately I've turned towards automation-testing software. I've also become interested in designing electronics and programming my own devices.
+My name is Krzysztof. I have been passionate about computers since childhood and began programming in elementary school. 
+After completing technical school, I started working as a game programmer. 
+Almost a decade of my life went by in this field, but recently I have shifted my focus towards automation testing software. 
+Additionally, I have developed an interest in designing electronics and programming my own devices.
 
 ## 📍Where am I from?
-I was born in Poland in the city of Bydgoszcz. It is a city located on the Brda River, but the district I come from lies on the longest of Polish rivers - the Vistula.
+I was born in Bydgoszcz, a city in Poland. Bydgoszcz is situated on the Brda River, while the district I come from is located on the Vistula River, which is the longest river in Poland.
 
-## 👀 I’m interested in...
+## 👀I am interested in the following areas:
 - PCB design
 - Game development
 - Electrical engineering
 
-## 🌱 I’m currently learning...
+## 🌱 I am currently learning:
 - Electronics design
 - Software architecture patterns
 - Modern C++ features
+- Large language models
 
 ## 💞️ What I like?
-- Road bikes & cycling
-- Useful projects 
+- Being active
+- Road cycling
+- Engaging in useful projects 
 
-## 📫 How to reach me?
+## 📫 How can you contact me?
 - [Facebook](https://www.facebook.com/krzysztof.strehlau)
 - [LinkedIn](https://www.linkedin.com/in/krzysztofstrehlau/)
 - [Hackaday](https://hackaday.io/projects/hacker/385266)
