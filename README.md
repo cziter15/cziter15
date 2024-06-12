@@ -1,6 +1,5 @@
 ![Header](./github-header-image.png)
 
-## 👋 Hi! I am Krzysztof...
 I have been passionate about computers since childhood and began programming in elementary school. 
 After completing technical school, I started working as a game programmer. 
 Almost a decade of my life went by in this field, but recently I have shifted my focus towards automation testing software. 
