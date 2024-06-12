@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./headere.png)
 
 I have been passionate about computers since childhood and began programming in elementary school. 
 After completing technical school, I started working as a game programmer. 
