@@ -1,17 +1,18 @@
 ![Header](./header.png)
 
-I have been passionate about computers since childhood and began programming in elementary school. 
-After completing technical school, I started working as a game programmer. 
-Almost a decade of my life went by in this field, but recently I have shifted my focus towards automation testing software. 
-Additionally, I have developed an interest in designing electronics and programming my own devices.
+- Since childhood, I've had a deep passion for computers, starting my journey in programming during elementary school. 
+- After graduating from technical school, I embarked on a career as a game programmer, dedicating nearly a decade to the field. 
+- Recently, however, my interests have evolved towards automation testing software and custom electronics design.
 
 ## 📍 I was born in Bydgoszcz...
-Bydgoszcz is a medium-sized city located in the northern part of Poland. The city is situated on the Brda River, while the district I come from is located on the Vistula River, which is the longest river in Poland.
+- Bydgoszcz is a medium-sized (with around 354,000 residents as of 2016) city located in the northern part of Poland (Central Europe).
+- The city is situated on the Brda River, while the district I come from is located on the Vistula River, which is the longest river in Poland.
 
 ## 👀 I am interested in the following areas...
-- PCB design
-- Game development
-- Electrical engineering
+- **PCB Design** which means crafting and designing own printed circuit boards.
+- **Game Development** to continue my passion for creating immersive digital experiences.
+- **Electrical Engineering** to explore the principles and practical applications of electronics.
+- **Practical and Ethical Usage of AI** to learn how artificial intelligence can be applied responsibly and effectively.
 
 ## 🌱 I am currently learning...
 - Electronics design
