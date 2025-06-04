@@ -17,6 +17,7 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 - Modern C++ techniques
 - Go programming language
 - Large language models
+- AI trends (ML technologies, LLMs, diffusion models, agents)
 
 ## 💞️ Beyond Tech
 - Staying active and healthy
