@@ -1,6 +1,15 @@
+<p align="center">
+  
 ![Header](./header.png)
 
+</p>
+
 Ever since I was a child, I’ve been captivated by computers. My programming journey began in elementary school, and after graduating from technical school, I devoted nearly a decade to game programming. Recently, I’ve shifted my focus toward automation testing and designing custom electronics.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cziter15&show_icons=true&theme=synthwave"
+     width="80%" />
+</p>
 
 ## 📍 My Roots
 I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (as of 2016) in northern Poland. While Bydgoszcz is nestled along the Brda River, my hometown lies on the banks of the Vistula River, Poland’s longest.
