@@ -1,7 +1,7 @@
 <p align="center">
-  
-![Header](./header2.png)
-
+  <a href="#">
+    <img src="./header2.png" />
+  </a>
 </p>
 
 Ever since I was a child, I’ve been captivated by computers. My programming journey began in elementary school, and after graduating from technical school, I devoted nearly a decade to game programming. Recently, I’ve shifted my focus toward automation testing and designing custom electronics.
