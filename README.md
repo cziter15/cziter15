@@ -10,8 +10,9 @@
 ![lang badge Go](https://img.shields.io/badge/Go-developer-blue)
 ![committers.top badge](https://user-badge.committers.top/poland/cziter15.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge)](https://www.linkedin.com/in/krzysztofstrehlau/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0844a2?style=for-the-badge)](https://www.linkedin.com/in/krzysztofstrehlau/)
 [![Hackaday](https://img.shields.io/badge/Hackaday-FFCC00?style=for-the-badge)](https://hackaday.io/KrzysiekS)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](https://www.facebook.com/krzysztof.strehlau)
 
 </div>
 
