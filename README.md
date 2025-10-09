@@ -28,7 +28,7 @@ Ever since I was a child, I’ve been captivated by computers. My programming jo
 ## 📍 My Roots
 
 <p align="center">
-  <a href="https://www.bydgoszcz.pl/" target="_blank">
+  <a href="https://www.bydgoszcz.pl/">
     <img width="239" height="172" src="https://github.com/user-attachments/assets/e84f21f9-5307-48bb-bc28-ada002a691ed"/>
   </a>
 </p>
