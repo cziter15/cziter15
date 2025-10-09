@@ -5,13 +5,13 @@
 </p>
 
 <div align="center">
-  
-  [![lang badge c++](https://img.shields.io/badge/C++-developer-blue)](#)
-  [![lang badge Go](https://img.shields.io/badge/Go-developer-blue)](#)
-  [![committers.top badge](https://user-badge.committers.top/poland/cziter15.svg)](https://committers.top/poland)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0844a2)](https://www.linkedin.com/in/krzysztofstrehlau/)
-  [![Hackaday](https://img.shields.io/badge/Hackaday-FFCC00)](https://hackaday.io/KrzysiekS)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2)](https://www.facebook.com/krzysztof.strehlau)
+
+[![C++](https://img.shields.io/badge/C++-developer-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-developer-blue?style=flat-square&logo=go&logoColor=white)](#)
+[![Committers.top](https://user-badge.committers.top/poland/cziter15.svg)](https://committers.top/poland) &nbsp; 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztofstrehlau/)
+[![Hackaday](https://img.shields.io/badge/Hackaday-aa8800?style=flat-square&logo=hackaday&logoColor=white)](https://hackaday.io/KrzysiekS)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/krzysztof.strehlau)
 
 </div>
 
