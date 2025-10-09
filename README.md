@@ -30,7 +30,7 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 
 <p align="center">
   <a href="https://www.bydgoszcz.pl/">
-    <img width="239" height="172" src="https://github.com/user-attachments/assets/e84f21f9-5307-48bb-bc28-ada002a691ed"/>
+    <img width="239" height="172" src="https://github.com/user-attachments/assets/5f1b1bfc-9110-4cbd-902a-4edf2162f4cc"/>
   </a>
 </p>
 
