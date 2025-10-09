@@ -26,14 +26,13 @@ Ever since I was a child, I’ve been captivated by computers. My programming jo
 
 ## 📍 My Roots
 
+I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (as of 2016) in northern Poland. While Bydgoszcz is nestled along the Brda River, my hometown lies on the banks of the Vistula River, Poland’s longest.
+
 <p align="center">
   <a href="https://www.bydgoszcz.pl/">
     <img width="239" height="172" src="https://github.com/user-attachments/assets/e84f21f9-5307-48bb-bc28-ada002a691ed"/>
   </a>
 </p>
-
-I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (as of 2016) in northern Poland. While Bydgoszcz is nestled along the Brda River, my hometown lies on the banks of the Vistula River, Poland’s longest.
-
 
 ## 👀 What Inspires Me
 - **PCB Design:** I love crafting and designing my own printed circuit boards.  
