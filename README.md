@@ -19,7 +19,7 @@ Ever since I was a child, I’ve been captivated by computers. My programming jo
 
 <p align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=cziter15&show_icons=true&theme=highcontrast" width="80%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=cziter15&show_icons=true&theme=vision-friendly-dark" width="70%" />
   </a>
 </p>
 
