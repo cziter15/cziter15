@@ -5,14 +5,13 @@
 </p>
 
 <div align="center">
-
+  
   [![lang badge c++](https://img.shields.io/badge/C++-developer-blue)](#)
   [![lang badge Go](https://img.shields.io/badge/Go-developer-blue)](#)
   [![committers.top badge](https://user-badge.committers.top/poland/cziter15.svg)](https://committers.top/poland)
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0844a2?style=for-the-badge)](https://www.linkedin.com/in/krzysztofstrehlau/)
-  [![Hackaday](https://img.shields.io/badge/Hackaday-FFCC00?style=for-the-badge)](https://hackaday.io/KrzysiekS)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge)](https://www.facebook.com/krzysztof.strehlau)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0844a2)](https://www.linkedin.com/in/krzysztofstrehlau/)
+  [![Hackaday](https://img.shields.io/badge/Hackaday-FFCC00)](https://hackaday.io/KrzysiekS)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2)](https://www.facebook.com/krzysztof.strehlau)
 
 </div>
 
