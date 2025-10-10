@@ -73,6 +73,10 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 </p>
 
 ## 📫 Let’s Connect
-- [Facebook](https://www.facebook.com/krzysztof.strehlau)  
-- [LinkedIn](https://www.linkedin.com/in/krzysztofstrehlau/)  
-- [Hackaday](https://hackaday.io/projects/hacker/385266)  
+
+<p align="center">
+<a href="https://www.linkedin.com/in/krzysztofstrehlau/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;<a href="https://hackaday.io/KrzysiekS" target="_blank" rel="noopener noreferrer"><img alt="Hackaday" src="https://img.shields.io/badge/Hackaday-aa8800?style=for-the-badge&logo=hackaday&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.facebook.com/krzysztof.strehlau" target="_blank" rel="noopener noreferrer"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;<a href="https://www.instagram.com/krzysztofstrehlau/" target="_blank" rel="noopener noreferrer"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.strava.com/athletes/9679958" target="_blank" rel="noopener noreferrer"><img alt="Strava" src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white"></a>
+</p>
+
+
+
