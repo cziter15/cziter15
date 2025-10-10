@@ -53,12 +53,24 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 - Modern C++ techniques  
 - The Go programming language  
 - Large language models  
-- AI trends (ML technologies, LLMs, diffusion models, agents)  
+- AI trends (ML technologies, LLMs, diffusion models, agents)
+
+<p align="center">
+  <a href="#">
+    <img alt="image" src="https://github.com/user-attachments/assets/23489b9b-04f7-498e-9a9c-213822ef8c9f" width="80%"  />
+  </a>
+</p>
 
 ## 💞️ Beyond Tech
 - Staying active and healthy  
 - Road cycling  
-- Engaging in meaningful projects  
+- Engaging in meaningful projects
+
+<p align="center">
+  <a href="#">
+    <img src="https://github.com/user-attachments/assets/b79d94f8-8796-43fd-b429-3dbd557a7cfb" width="80%"  />
+  </a>
+</p>
 
 ## 📫 Let’s Connect
 - [Facebook](https://www.facebook.com/krzysztof.strehlau)  
