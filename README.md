@@ -43,7 +43,7 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 
 <p align="center">
   <a href="#">
-    <img alt="image" src="https://github.com/user-attachments/assets/c03d5621-7d56-44f1-88f8-4a1a98eb03ba" width="80%" />
+    <img src="https://github.com/user-attachments/assets/16a2113a-d6d5-485e-953f-8b35475a47fc" width="80%" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 
 <p align="center">
   <a href="#">
-    <img alt="image" src="https://github.com/user-attachments/assets/23489b9b-04f7-498e-9a9c-213822ef8c9f" width="80%"  />
+    <img alt="image" src="https://github.com/user-attachments/assets/23489b9b-04f7-498e-9a9c-213822ef8c9f" width="80%" />
   </a>
 </p>
 
