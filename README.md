@@ -35,10 +35,17 @@ I was born in **Bydgoszcz**, a vibrant city of approximately 354,000 residents (
 </p>
 
 ## 👀 What Inspires Me
+
 - **PCB Design:** I love crafting and designing my own printed circuit boards.  
 - **Game Development:** Creating immersive digital experiences remains a passion.  
 - **Electrical Engineering:** I explore both the theoretical and practical aspects of electronics.  
 - **Responsible AI:** I’m committed to understanding and applying artificial intelligence ethically and effectively.  
+
+<p align="center">
+  <a href="#">
+    <img alt="image" src="https://github.com/user-attachments/assets/c03d5621-7d56-44f1-88f8-4a1a98eb03ba" width="80%" />
+  </a>
+</p>
 
 ## 🌱 What I’m Learning
 - Electronics design  
