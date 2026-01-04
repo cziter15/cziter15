@@ -17,12 +17,6 @@
 
 Ever since I was a child, I’ve been captivated by computers. My programming journey began in elementary school, and after graduating from technical school, I devoted nearly a decade to game programming. Recently, I’ve shifted my focus toward automation testing and designing custom electronics.
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=cziter15&show_icons=true&theme=vision-friendly-dark" width="70%" />
-  </a>
-</p>
-
 
 ## 📍 My Roots
 
