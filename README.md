@@ -16,10 +16,7 @@
 
 Ever since I was a child, I’ve been captivated by computers. My programming journey began in elementary school, and after graduating from technical school, I devoted nearly a decade to game programming. Recently, I’ve shifted my focus toward automation testing and designing custom electronics.
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/cziter15" target="_blank" title="buymeacoffee">
-  <img src="https://iili.io/JoQ1MeS.md.png"  alt="buymeacoffee-yellow-badge" style="width: 104px;">
-</a>
+<a href="https://buycoffee.to/cziter15" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-dark--en.png" style="width: 351px; height: 92px" alt="Postaw kawę dla cziter15 na buycoffee.to"></a>
 </div>
 
 
