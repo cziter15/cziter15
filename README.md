@@ -8,7 +8,6 @@
 
 [![C++](https://img.shields.io/badge/C++-developer-blue?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-developer-blue?style=flat-square&logo=go&logoColor=white)](#)
-[![Committers.top](https://user-badge.committers.top/poland/cziter15.svg)](https://committers.top/poland) &nbsp; 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztofstrehlau/)
 [![Hackaday](https://img.shields.io/badge/Hackaday-aa8800?style=flat-square&logo=hackaday&logoColor=white)](https://hackaday.io/KrzysiekS)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/krzysztof.strehlau)
@@ -16,6 +15,12 @@
 </div>
 
 Ever since I was a child, I’ve been captivated by computers. My programming journey began in elementary school, and after graduating from technical school, I devoted nearly a decade to game programming. Recently, I’ve shifted my focus toward automation testing and designing custom electronics.
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/cziter15" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JoQ1MeS.md.png"  alt="buymeacoffee-yellow-badge" style="width: 104px;">
+</a>
+</div>
 
 
 ## 📍 My Roots
